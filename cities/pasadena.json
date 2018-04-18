@@ -1,0 +1,17 @@
+{
+    "name":     "Pasadena",
+    "state":    "CA",
+    "high":     {
+        "avg":  28.5,
+        "std":  3.5
+    },
+    "low":      {
+        "avg":  13.3,
+        "std":  4.5
+    },
+    "precip":   {
+        "yamt": 325.0,
+        "std":  15.0,
+        "days": 25.0
+    }
+}
